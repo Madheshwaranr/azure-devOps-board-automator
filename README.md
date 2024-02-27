@@ -21,6 +21,15 @@ Automate the creation and maintenance of Product Backlog Items, Bugs, and Tasks 
 
 Contributions are welcome! Whether it's adding new features, improving existing scripts, or enhancing documentation, feel free to contribute to make Azure DevOps Board Automator even more robust.
 
-## Contact
+📫 **Contact:**
 
-For questions or support, please contact [madheshravi2001@gmail.com].
+For questions or support, please contact [madheshravi2001@gmail.com]
+
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/madheshwaran-r-b6a454209)
+
+Let's connect and create amazing things!
+
+[My website portfolio](https://madheshwaranr.github.io/My_Portfolio/)
+
+
+
